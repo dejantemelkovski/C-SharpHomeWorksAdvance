@@ -1,0 +1,15 @@
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\bin\Debug\net6.0\HomeWork01Pet.exe
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\bin\Debug\net6.0\HomeWork01Pet.deps.json
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\bin\Debug\net6.0\HomeWork01Pet.runtimeconfig.json
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\bin\Debug\net6.0\HomeWork01Pet.dll
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\bin\Debug\net6.0\HomeWork01Pet.pdb
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\obj\Debug\net6.0\HomeWork01Pet.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\obj\Debug\net6.0\HomeWork01Pet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\obj\Debug\net6.0\HomeWork01Pet.AssemblyInfoInputs.cache
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\obj\Debug\net6.0\HomeWork01Pet.AssemblyInfo.cs
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\obj\Debug\net6.0\HomeWork01Pet.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\obj\Debug\net6.0\HomeWork01Pet.dll
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\obj\Debug\net6.0\refint\HomeWork01Pet.dll
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\obj\Debug\net6.0\HomeWork01Pet.pdb
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\obj\Debug\net6.0\HomeWork01Pet.genruntimeconfig.cache
+C:\Users\Dejan\Desktop\HomeWork01\HomeWork01\HomeWork01Pet\obj\Debug\net6.0\ref\HomeWork01Pet.dll
